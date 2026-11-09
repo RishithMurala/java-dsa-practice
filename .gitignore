@@ -13,3 +13,12 @@ build/
 .vscode/
 
 .DS_Store
+
+# IntelliJ compiled output
+out/
+
+# Log files
+*.log
+
+# Operating system files
+Thumbs.db
